@@ -13,6 +13,7 @@ The robot continuously monitors its environment using the **Sense-Decide-Act** c
 | 3 | Night Mode 🌙 | Low light (LDR < 400) |
 | 4 (Default) | Patrol Mode ✅ | No triggers |
 
+
 ## 🛠️ Hardware
 
 * Arduino Uno
